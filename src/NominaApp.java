@@ -3,9 +3,9 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * Main application for TuNominaYa.
- * Provides a simple menu (JOptionPane) to create employees and compute salaries.
- * Demonstrates inheritance, abstract classes and polymorphism.
+ * Principal aplicación para TuNominaYa.
+ * Proporciona un menú sencillo (JOptionPane) para crear empleados y calcular salarios
+ * Demuestra herencia, clases abstractas y polimorfismo.
  */
 public class NominaApp {
     private static List<Empleado> empleados = new ArrayList<>();

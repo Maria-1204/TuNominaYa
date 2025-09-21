@@ -1,5 +1,5 @@
 /**
- * Employee with a fixed monthly salary.
+ * Empleado con un salario mensual fijo
  */
 public class EmpleadoAsalariado extends Empleado {
     private double salarioMensual;

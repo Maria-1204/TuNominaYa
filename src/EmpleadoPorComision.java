@@ -1,5 +1,5 @@
 /**
- * Employee paid by commission: base salary + commission percentage on sales.
+ * Empleado remunerado por comisión: salario base + porcentaje de comisión sobre las ventas.
  */
 public class EmpleadoPorComision extends Empleado {
     private double salarioBase;

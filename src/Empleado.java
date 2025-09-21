@@ -1,6 +1,6 @@
 /**
- * Abstract base class for employees.
- * Defines common attributes and the abstract method calcularSalario().
+ * Clase base abstracta para empleados
+ * Define atributos comunes y el método abstracto calcularSalario().
  */
 public abstract class Empleado {
     private String nombre;
@@ -19,7 +19,7 @@ public abstract class Empleado {
         return cedula;
     }
 
-    // Abstract method - must be implemented by subclasses
+    // Abstract method
     public abstract double calcularSalario();
 
     @Override

@@ -1,5 +1,5 @@
 /**
- * Employee paid by hour.
+ * Empleado pagado por horas.
  */
 public class EmpleadoPorHoras extends Empleado {
     private double valorHora;
